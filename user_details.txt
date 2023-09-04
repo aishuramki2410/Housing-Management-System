@@ -1,0 +1,38 @@
+A1,Ratna Mehan,9143783294,J+s6Lz,rent,RatnaMehan@gmail.com
+A2,Kabandha Bahl,7039110841,g?24Gr,owned,KabandhaBahl@gmail.com
+A5,Dushkriti,7769220823,8@Uq#C,owned,DushkritiBahl@gmail.com
+A8,Anup,8629110868,GkK^2Y,owned,Anup@gmail.com
+B2,Rajesh,9831465056,Am9m$p,owned,Rajesh@gmail.com
+B3,Aishwarya,6298271902,@Fs5Yq,rent,Aishwarya@gmail.com
+B4,Rahul,8266018893,f@4H*w,rent,Rahul@gmail.com
+B6,Vaidhya,6842949484,4xD%kK,owned,Vaidhya@gmail.com
+B7,Nakul,9581636095,qsZ5Ep,owned,Nakul@gmail.com
+C1,Ramya,7423343639,PPG4mr,rent,Ramya@gmail.com
+C5,Ashwin,9052665348,uS538D,owned,Ashwin@gmail.com
+C6,Aravindh,6170179535,Ur5Qwd,rent,Aravindh@gmail.com
+C7,Barath,7626257857,e6wBBh,owned,Barath@gmail.com
+C8,Krishnan,9906231936,nk58SL,owned,Krishnan@gmail.com
+D1,Muhamed,7601175206,4VTu6J,rent,Muhamed@gmail.com
+D2,Natesan,8826329151,H86bLb,rent,Natesan@gmail.com
+D3,Tovino,9365030963,mAg23z,rent,Tovino@gmail.com
+D5,Sarah S,7655763658,^4LStm,owned,Sarah S@gmail.com
+D7,Kunal sharma,6593260105,xJ5tey,rent,Kunal sharma@gmail.com
+D8,Aman Singh,9661516130,F2NTwT,owned,Aman Singh@gmail.com
+E1,Arulsivam,6257669235,3aagBA,owned,Arulsivam@gmail.com
+E2,Sadhvik,6673171595,BQz8tX,owned,Sadhvik@gmail.com
+E4,Murugan,8312172420,g2dXCB,owned,Murugan@gmail.com
+E6,Irfan,7059452051,tGW7WV,rent,Irfan@gmail.com
+E7,Venkat,8049076054,x7UnMd,rent,Venkat@gmail.com
+E8,Deepak,7579674889,UjD8xF,rent,Deepak@gmail.com
+F1,Roshan,6240648709,jmpG6x,owned,Roshan@gmail.com
+F3,Irene,8310604150,CGjr4q,rent,Irene@gmail.com
+F5,Uma,7943442000,QYTx57,owned,Uma@gmail.com
+F6,Rajan,8926649514,Qmh2UG,rent,Rajan@gmail.com
+F7,Srisha,6182550052,J5EhgW,owned,Srisha@gmail.com
+F8,Amritha,8584607161,vT55ZQ,owned,Amritha@gmail.com
+G2,Roshini,6220311449,KpT8uA,rent,Roshini@gmail.com
+G3,Paul,6551409913,n5yYKt,rent,Paul@gmail.com
+G4,Rioraj,8835836098,K6s2QN,owned,Rioraj@gmail.com
+G5,Abdul,6128198209,7ZSYsS,owned,Abdul@gmail.com
+G6,Fathima,7946086517,ftLG7C,owned,Fathima@gmail.com
+G7,Monisha,7902689436,7aJQqC,rent,Monisha@gmail.com
